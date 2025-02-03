@@ -1,0 +1,16 @@
+--prefer-binary
+pathway
+litellm==1.40.0
+openai
+google-generativeai
+numpy
+fastapi
+uvicorn
+werkzeug
+serpapi
+beautifulsoup4
+requests
+aiohttp
+python-dotenv
+pytesseract
+python-multipart
